@@ -20,6 +20,7 @@ console.log(screens.toLowerCase());
 console.log(screens.split());
 
 console.log("Процент отката посреднику за работу " + fullPrice * (rollback/100) + " рублей");
+console.log("my new project");
 
 
 
